@@ -44,7 +44,7 @@ This project was created to practice **DOM manipulation, event handling, and bas
 You can add a screenshot of your project here.
 
 ```
-![App Screenshot](screenshot.png)
+![Task Vault Screenshot](assets/images/Screenshot(711).png)
 ```
 
 ---
