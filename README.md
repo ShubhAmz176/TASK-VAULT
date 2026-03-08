@@ -39,13 +39,9 @@ This project was created to practice **DOM manipulation, event handling, and bas
 
 ---
 
-## 📸 Preview
-
-You can add a screenshot of your project here.
+##  Preview
 
 ```
-![Task Vault Screenshot](assets/images/taskVault.png)
+![TASK-VAULT](assets/images/taskVault.png)
 ```
-
----
 
